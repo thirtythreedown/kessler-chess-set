@@ -1,0 +1,310 @@
+solid Kessler chess set
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 44.99999999999999 4.93494134445882e-15 27.5
+    vertex 25.00000000000003 4.93494134445882e-15 7.5
+    vertex 44.99999999999999 4.93494134445882e-15 7.5
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 25.00000000000003 4.93494134445882e-15 7.5
+    vertex 44.99999999999999 4.93494134445882e-15 27.5
+    vertex 25.00000000000003 4.93494134445882e-15 27.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 44.99999999999999 19.999999999999986 7.5
+    vertex 44.99999999999999 4.93494134445882e-15 27.5
+    vertex 44.99999999999999 4.93494134445882e-15 7.5
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 44.99999999999999 4.93494134445882e-15 27.5
+    vertex 44.99999999999999 19.999999999999986 7.5
+    vertex 44.99999999999999 19.999999999999986 27.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 25.00000000000003 19.999999999999986 7.5
+    vertex 27.5 17.499999999999996 7.5
+    vertex 25.00000000000003 4.93494134445882e-15 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 27.5 17.499999999999996 7.5
+    vertex 25.00000000000003 19.999999999999986 7.5
+    vertex 44.99999999999999 19.999999999999986 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 27.5 17.499999999999996 7.5
+    vertex 44.99999999999999 19.999999999999986 7.5
+    vertex 42.49999999999999 17.499999999999996 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 42.49999999999999 17.499999999999996 7.5
+    vertex 44.99999999999999 19.999999999999986 7.5
+    vertex 42.49999999999999 2.5000000000000004 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 25.00000000000003 4.93494134445882e-15 7.5
+    vertex 27.5 2.5000000000000004 7.5
+    vertex 44.99999999999999 4.93494134445882e-15 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 27.5 2.5000000000000004 7.5
+    vertex 25.00000000000003 4.93494134445882e-15 7.5
+    vertex 27.5 17.499999999999996 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 44.99999999999999 4.93494134445882e-15 7.5
+    vertex 27.5 2.5000000000000004 7.5
+    vertex 42.49999999999999 2.5000000000000004 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 44.99999999999999 4.93494134445882e-15 7.5
+    vertex 42.49999999999999 2.5000000000000004 7.5
+    vertex 44.99999999999999 19.999999999999986 7.5
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 42.49999999999999 17.499999999999996 5.0
+    vertex 42.49999999999999 2.5000000000000004 7.5
+    vertex 42.49999999999999 2.5000000000000004 5.0
+  endloop
+endfacet
+facet normal 1.0 -0.0 -0.0
+  outer loop
+    vertex 42.49999999999999 2.5000000000000004 7.5
+    vertex 42.49999999999999 17.499999999999996 5.0
+    vertex 42.49999999999999 17.499999999999996 7.5
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 27.5 17.499999999999996 7.5
+    vertex 27.5 2.5000000000000004 5.0
+    vertex 27.5 2.5000000000000004 7.5
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 27.5 2.5000000000000004 5.0
+    vertex 27.5 17.499999999999996 7.5
+    vertex 27.5 17.499999999999996 5.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 27.5 17.499999999999996 7.5
+    vertex 42.49999999999999 17.499999999999996 5.0
+    vertex 27.5 17.499999999999996 5.0
+  endloop
+endfacet
+facet normal -0.0 1.0 -0.0
+  outer loop
+    vertex 42.49999999999999 17.499999999999996 5.0
+    vertex 27.5 17.499999999999996 7.5
+    vertex 42.49999999999999 17.499999999999996 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 0.0 5.0
+    vertex 27.5 2.5000000000000004 5.0
+    vertex 25.0 19.999999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 27.5 2.5000000000000004 5.0
+    vertex 25.0 0.0 5.0
+    vertex 45.0 0.0 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 27.5 2.5000000000000004 5.0
+    vertex 45.0 0.0 5.0
+    vertex 42.49999999999999 2.5000000000000004 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 42.49999999999999 2.5000000000000004 5.0
+    vertex 45.0 0.0 5.0
+    vertex 42.49999999999999 17.499999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.0 19.999999999999996 5.0
+    vertex 27.5 17.499999999999996 5.0
+    vertex 45.0 19.999999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 27.5 17.499999999999996 5.0
+    vertex 25.0 19.999999999999996 5.0
+    vertex 27.5 2.5000000000000004 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 45.0 19.999999999999996 5.0
+    vertex 27.5 17.499999999999996 5.0
+    vertex 42.49999999999999 17.499999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 45.0 19.999999999999996 5.0
+    vertex 42.49999999999999 17.499999999999996 5.0
+    vertex 45.0 0.0 5.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 45.0 19.999999999999996 0.0
+    vertex 45.0 0.0 5.0
+    vertex 45.0 0.0 0.0
+  endloop
+endfacet
+facet normal 1.0 0.0 0.0
+  outer loop
+    vertex 45.0 0.0 5.0
+    vertex 45.0 19.999999999999996 0.0
+    vertex 45.0 19.999999999999996 5.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 25.00000000000003 19.999999999999986 27.5
+    vertex 25.00000000000003 4.93494134445882e-15 7.5
+    vertex 25.00000000000003 4.93494134445882e-15 27.5
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 25.00000000000003 4.93494134445882e-15 7.5
+    vertex 25.00000000000003 19.999999999999986 27.5
+    vertex 25.00000000000003 19.999999999999986 7.5
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 42.49999999999999 2.5000000000000004 7.5
+    vertex 27.5 2.5000000000000004 5.0
+    vertex 42.49999999999999 2.5000000000000004 5.0
+  endloop
+endfacet
+facet normal 0.0 -1.0 0.0
+  outer loop
+    vertex 27.5 2.5000000000000004 5.0
+    vertex 42.49999999999999 2.5000000000000004 7.5
+    vertex 27.5 2.5000000000000004 7.5
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 45.0 19.999999999999996 0.0
+    vertex 25.0 0.0 0.0
+    vertex 25.0 19.999999999999996 0.0
+  endloop
+endfacet
+facet normal 0.0 0.0 -1.0
+  outer loop
+    vertex 25.0 0.0 0.0
+    vertex 45.0 19.999999999999996 0.0
+    vertex 45.0 0.0 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 25.0 19.999999999999996 5.0
+    vertex 45.0 19.999999999999996 0.0
+    vertex 25.0 19.999999999999996 0.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 45.0 19.999999999999996 0.0
+    vertex 25.0 19.999999999999996 5.0
+    vertex 45.0 19.999999999999996 5.0
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 25.00000000000003 19.999999999999986 27.5
+    vertex 44.99999999999999 19.999999999999986 7.5
+    vertex 25.00000000000003 19.999999999999986 7.5
+  endloop
+endfacet
+facet normal 0.0 1.0 0.0
+  outer loop
+    vertex 44.99999999999999 19.999999999999986 7.5
+    vertex 25.00000000000003 19.999999999999986 27.5
+    vertex 44.99999999999999 19.999999999999986 27.5
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 25.0 19.999999999999996 5.0
+    vertex 25.0 0.0 0.0
+    vertex 25.0 0.0 5.0
+  endloop
+endfacet
+facet normal -1.0 0.0 0.0
+  outer loop
+    vertex 25.0 0.0 0.0
+    vertex 25.0 19.999999999999996 5.0
+    vertex 25.0 19.999999999999996 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 45.0 0.0 5.0
+    vertex 25.0 0.0 0.0
+    vertex 45.0 0.0 0.0
+  endloop
+endfacet
+facet normal -0.0 -1.0 -0.0
+  outer loop
+    vertex 25.0 0.0 0.0
+    vertex 45.0 0.0 5.0
+    vertex 25.0 0.0 5.0
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 44.99999999999999 4.93494134445882e-15 27.5
+    vertex 25.00000000000003 19.999999999999986 27.5
+    vertex 25.00000000000003 4.93494134445882e-15 27.5
+  endloop
+endfacet
+facet normal 0.0 0.0 1.0
+  outer loop
+    vertex 25.00000000000003 19.999999999999986 27.5
+    vertex 44.99999999999999 4.93494134445882e-15 27.5
+    vertex 44.99999999999999 19.999999999999986 27.5
+  endloop
+endfacet
+endsolid Kessler chess set
