@@ -1,5 +1,5 @@
-# kessler-chess-set
-A set of 3D-printable models based on a chess set design by woodworker Matt Kessler.
+## kessler-chess-set
+###A 3D-printable chess set designed by woodworker Matt Kessler.
 =======
 tl;dr: A set of 3D models based on a chess set design by woodworker Matt Kessler.
 ---
